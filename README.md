@@ -1,2 +1,2 @@
 # AnkosLaravelRepo
-Švác
+Švácal boi
